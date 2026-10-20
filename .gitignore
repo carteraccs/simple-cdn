@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.cache/
+.vercel/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+.DS_Store
+public/*
+!public/.gitkeep
